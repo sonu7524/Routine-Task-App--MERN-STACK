@@ -2,6 +2,12 @@
 
 This is a simple Todo application with a full-stack implementation using Node.js, Express.js, MongoDB for the backend, and React.js for the frontend.
 
+![Screenshot (54)](https://github.com/sonu7524/Routine-Task-App--MERN-STACK/assets/100096513/fac3e70d-5611-4d41-9aaf-55a37d553d7b)
+![Screenshot (55)](https://github.com/sonu7524/Routine-Task-App--MERN-STACK/assets/100096513/9bd092ac-efe7-43fd-bf76-d042aa99929c)
+![Screenshot (56)](https://github.com/sonu7524/Routine-Task-App--MERN-STACK/assets/100096513/f05fa934-8477-4980-95e7-4ea663bca8a0)
+![Screenshot (57)](https://github.com/sonu7524/Routine-Task-App--MERN-STACK/assets/100096513/4e51a071-523a-41da-bc71-75ba377e5ec5)
+
+
 ## Features
 
 - User authentication with JWT
