@@ -43,6 +43,7 @@ JWT_SECRET=your_jwt_secret
 ```
 npm run dev
 ```
+### Frontend
 5. Navigate to the frontend directory.
 ```
 cd client
